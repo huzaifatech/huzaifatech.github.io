@@ -792,4 +792,21 @@ footer {
     form .btn{
         text-align: center;
     }
+    .tabs li{
+        margin-bottom: 15px;
+    }
+    section{
+        padding: 10px;
+    }
+    .item a.magnify img{
+        width: 120px;
+    }
+    .portfolio_wrapper .item{
+        flex: 0;
+        max-width: 100%
+    }
+    .portfolio_wrapper{
+        width: 250px;
+        margin: 4rem auto;
+    }
 }
